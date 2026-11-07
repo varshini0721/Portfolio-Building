@@ -1,0 +1,8 @@
+
+Visual Studio Code was installed and configured for C/C++ development.
+The Microsoft C/C++ extension was installed.
+The GCC and G++ compilers were verified using version commands.
+The Windows PATH variable was configured to access the compiler.
+A C source file named hello.c was created.
+The program was compiled using GCC and executed successfully.
+The output displayed was "Hello, World!".
