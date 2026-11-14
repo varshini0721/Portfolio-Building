@@ -5,3 +5,6 @@ Hi, I'm Varshini, a B.Tech Computer Science and Engineering student. I am passio
 Learning Python
 Interested in web development
 Goal: contribute to open source
+## Projects
+
+- IPL Ticket Booking Website – A web-based project developed using HTML, CSS, JavaScript, and React.
