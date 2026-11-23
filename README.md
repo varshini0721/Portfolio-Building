@@ -8,3 +8,10 @@ Goal: contribute to open source
 ## Projects
 
 - IPL Ticket Booking Website – A web-based project developed using HTML, CSS, JavaScript, and React.
+
+## Collaboration Log
+
+- **Partner Name:** Thanushree A
+- **Partner GitHub Username:** Thanushree-debug
+- **Work Completed:** Collaboratively developed a `greet()` function in C that greets a person by name.
+- **What I Learned:** Learned how to use GitLens to track code changes and Live Share to collaborate with another developer in real time.
